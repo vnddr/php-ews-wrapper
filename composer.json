@@ -1,0 +1,8 @@
+{
+    "name": "slam310/php-ews",
+    "autoload": {
+        "psr-0" : {
+            "PhpEws" : "src"
+        }
+    }
+}
