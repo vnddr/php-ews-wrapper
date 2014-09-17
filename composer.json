@@ -1,5 +1,5 @@
 {
-    "name": "slam310/php-ews",
+    "name": "slam310/php-ews-wrapper",
     "autoload": {
         "psr-0" : {
             "PhpEws" : "src"
