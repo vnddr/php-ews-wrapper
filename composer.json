@@ -1,5 +1,6 @@
 {
     "name": "slam310/php-ews-wrapper",
+     "description": "PHP wrapper for the Exchange web service",
     "autoload": {
         "psr-0" : {
             "PhpEws" : "src"
